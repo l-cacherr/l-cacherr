@@ -8,7 +8,7 @@
 
 [->博客园](https://www.cnblogs.com/l-cacherr/)
 
-访问量计数器（各主页计数总和）：
+访问量计数器：
 
 ![:l-cacherr](https://count.getloli.com/get/@:l-cacherr?theme=rule34)
 
